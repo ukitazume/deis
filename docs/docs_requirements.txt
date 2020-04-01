@@ -18,7 +18,7 @@ docker-py==0.7.2
 gunicorn==19.2.1
 paramiko==1.15.2
 python-etcd==0.3.2
-PyYAML==3.11
+PyYAML==5.3.1
 South==1.0.2
 
 # Deis client requirements
